@@ -1,0 +1,7 @@
+language: php
+install:
+    - curl -s http://getcomposer.org/installer | php
+    - php composer.phar install
+php:
+    - 5.4
+    - 5.5

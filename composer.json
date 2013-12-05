@@ -1,0 +1,8 @@
+{
+    "name": "wdalmut/smodule",
+    "description": "A fake symfony2 bundle in zf2",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.2.*"
+    }
+}
